@@ -1,1 +1,1 @@
-# Testing for master redirection on dynamic repo.
+# Testing for redirection on dynamic repo.
