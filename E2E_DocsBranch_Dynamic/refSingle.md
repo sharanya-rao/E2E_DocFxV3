@@ -1,1 +1,1 @@
-[!INCLUDE[Include a token here](refs/ref.md)]
+[!INCLUDE[Include a token here](ref.md)]
