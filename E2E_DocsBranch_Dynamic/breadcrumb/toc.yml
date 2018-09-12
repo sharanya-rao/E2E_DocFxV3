@@ -1,1 +1,27 @@
-- name: Docs 9/12/2018 3:00:36 AM
+### YamlMime:Achievements
+achievements:
+- uid: learn-sandbox.azure-path.trophy
+  type: trophy
+  title: Sample Azure Learning Path Trophy
+  summary: Sample Azure Learning Path Trophy Summary
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn-sandbox.sample-module.badge
+  type: badge
+  title: Sample Module Badge
+  summary: Sample Module Badge Summary
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn-sandbox.sample-module-2.badge
+  type: badge
+  title: Sample Module 2 Badge
+  summary: Sample Module 2 Badge Summary
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn-sandbox.bizapps-path.trophy
+  type: trophy
+  title: Sample Bizapps Learning Path Trophy
+  summary: Sample Bizapps Learning Path Trophy Summary
+  iconUrl: http://via.placeholder.com/120x120
+- uid: learn-sandbox.sample-module-3.badge
+  type: badge
+  title: Sample Module 3 Badge
+  summary: Sample Module 3 Badge Summary
+  iconUrl: http://via.placeholder.com/120x120
