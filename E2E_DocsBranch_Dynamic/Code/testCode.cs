@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Hello world 20181119040418"2018111603165520181116032320Hello world");
+            Console.WriteLine("2018111603165520181116032320Hello world");
         }
     }
 }
