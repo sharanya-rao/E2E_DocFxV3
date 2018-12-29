@@ -1,11 +1,12 @@
 {
   "need_generate_pdf": true,
   "need_generate_intellisense": false,
+  "use_docfxv3": true
   "docsets_to_publish": [
     {
-      "docset_name": "E2E_DocsBranch_Dynamic",
+      "docset_name": "E2E_DocFxV3",
       "build_source_folder": "E2E_DocsBranch_Dynamic",
-      "build_output_subfolder": "E2E_DocsBranch_Dynamic",
+      "build_output_subfolder": "E2E_DocFxV3",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
