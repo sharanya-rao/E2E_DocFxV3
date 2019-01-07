@@ -2,9 +2,9 @@
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
-      "docset_name": "E2E_DocsBranch_Dynamic",
+      "docset_name": "E2E_DocFxV3",
       "build_source_folder": "E2E_DocsBranch_Dynamic",
-      "build_output_subfolder": "E2E_DocsBranch_Dynamic",
+      "build_output_subfolder": "E2E_DocFxV3",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -37,5 +37,6 @@
       "Pdf"
     ]
   },
-  "need_generate_pdf_url_template": true
+  "need_generate_pdf_url_template": true,
+  "use_docfxv3": true
 }
