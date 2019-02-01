@@ -32,7 +32,7 @@
       "branch_mapping": {}
     },
     {
-      "path_to_root": "E2E_DocsBranch_Dynamic/test",
+      "path_to_root": "E2E_DocFxV3/test",
       "url": "https://github.com/OPS-E2E-PPE/E2E_RepoConifg_Docfxv3",
       "branch": "crr-pullRequest"
     }
