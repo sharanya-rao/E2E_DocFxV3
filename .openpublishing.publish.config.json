@@ -34,7 +34,7 @@
     {
       "path_to_root": "E2E_DocFxV3/test",
       "url": "https://github.com/OPS-E2E-PPE/E2E_RepoConifg_Docfxv3",
-      "branch": "crr-pullRequest"
+      "branch": "crr-pullrequest"
     }
   ],
   "branch_target_mapping": {},
