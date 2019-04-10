@@ -24,6 +24,10 @@
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
+  "docs_build_engine":
+  {
+    "name": "docfx_v3",
+  },
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -38,6 +42,5 @@
       "Pdf"
     ]
   },
-  "need_generate_pdf_url_template": true,
-  "use_docfxv3": true
+  "need_generate_pdf_url_template": true
 }
