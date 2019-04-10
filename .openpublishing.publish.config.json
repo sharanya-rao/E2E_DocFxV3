@@ -26,7 +26,7 @@
   "need_preview_pull_request": true,
   "docs_build_engine":
   {
-    "name": "docfx_v3",
+    "name": "docfx_v3"
   },
   "dependent_repositories": [
     {
