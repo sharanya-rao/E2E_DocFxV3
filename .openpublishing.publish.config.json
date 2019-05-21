@@ -1,6 +1,9 @@
 {
   "need_generate_pdf": true,
-  "use_docfxv3": true,
+  "docs_build_engine":
+   {
+   "name": "docfx_v3"
+   },
   "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
